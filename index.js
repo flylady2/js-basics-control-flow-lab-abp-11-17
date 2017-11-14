@@ -1,6 +1,5 @@
 // Write your code in this file!
-scuberGreetingForFeet() {
-  let feet;
+scuberGreetingForFeet(feet) {
   if (feet <= 400) {
     console.log('This one is one me!'):
   } else if (feet > 2500) {
