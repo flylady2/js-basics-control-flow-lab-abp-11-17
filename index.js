@@ -7,4 +7,4 @@ scuberGreetingForFeet(feet) {
   } else {
     return 'I will gladly take your 30 bucks';
   }
-
+}
